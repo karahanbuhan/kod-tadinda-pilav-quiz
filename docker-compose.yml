@@ -1,0 +1,14 @@
+services:
+  quiz-app:
+    build: .
+    container_name: quiz-app
+    restart: always
+    ports:
+      - "3000:3000"
+    environment:
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD}
+      - ADMIN_SECRET=${ADMIN_SECRET}
+      - ORIGIN=https://yyyazilim.com
+      # Yukarıdaki ORIGIN kısmına kendi domainini yazmalısın yoksa formlar çalışmaz!
+    volumes:
+      - ./quiz_data:/app/data  # Veritabanını sunucuda 'quiz_data' klasörüne saklar
