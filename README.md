@@ -100,5 +100,3 @@ node build/index.js
 ## Lisans
 Bu proje [MIT lisansı](https://github.com/karahanbuhan/kod-tadinda-pilav-quiz/blob/main/LICENSE) ile lisanslanmıştır. Dilediğiniz gibi kullanabilir, değiştirebilir ve geliştirebilirsiniz.
 
-**IESU Yazılım, Yapay Zeka ve Yaratıcılık Kulübü**
-
