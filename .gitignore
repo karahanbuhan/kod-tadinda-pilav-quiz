@@ -26,5 +26,5 @@ vite.config.ts.timestamp-*
 .docker-compose.yml
 
 # Database
-./quiz_app.db
+quiz_app.db
 data/
