@@ -4,8 +4,6 @@
 
 Etkinlik detaylarına ve arşiv görüntülerine [buradan ulaşabilirsiniz](https://web.archive.org/web/20251130104928/https://www.esenyurt.edu.tr/haber/1560-kod-tadinda-pilav-kulupler-tanisma-etkinligiden-lezzetli-kareler).
 
-Quiz'i denemek isterseniz https://yyyazilim.com adresinden oynayabilirsiniz, mobil cihazlar için tasarlanmıştır.
-
 ## Ekran Görüntüleri
 <img src="https://github.com/user-attachments/assets/ff664b89-6ebf-420a-bec6-fc11e18674f2" alt="Mobil Quiz Arayüzü" width="400" />
 <img src="https://github.com/user-attachments/assets/4605d08c-b302-48f1-a5d1-2cc1df533de1" alt="Sonuç ve Admin Ekranı" width="800" />
